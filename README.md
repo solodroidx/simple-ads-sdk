@@ -1,6 +1,8 @@
 # simple-ads-sdk
-A library for displaying ads from multiple ads sdk
-Ads Sdk list:
-- AdMob
-- Google Ad Manager
-- Meta Audience Network
+<p>A library for displaying ads from multiple ads sdk<p/>
+<p>Ads Sdk list:<p/>
+  <ul>
+    <li>AdMob</li>
+    <li>Google Ad Manager</li>
+    <li>Meta Audience Network</li>
+  </ul>
